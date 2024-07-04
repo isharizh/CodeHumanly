@@ -1,5 +1,3 @@
-Here's an enhanced README file with emojis and the updated Hugging Face link:
-
 # Humanly Code Generator 💻
 
 ## Description 📜
@@ -85,9 +83,5 @@ def sum_list(lst):
 
 - [LinkedIn](https://www.linkedin.com/in/harizh)
 - [GitHub](https://github.com/isharizh)
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
