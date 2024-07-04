@@ -1,10 +1,12 @@
-![Screenshot 2024-07-04 at 10 40 02 AM](https://github.com/isharizh/CodeHumanly/assets/93082178/0be8b51d-4569-4fa2-8009-abf87bef6501)# Humanly Code Generator 💻
+
+# Humanly Code Generator 💻
+
+![Screenshot 2024-07-04 at 10 40 02 AM](https://github.com/isharizh/CodeHumanly/assets/93082178/0be8b51d-4569-4fa2-8009-abf87bef6501)
 
 ## Description 📜
 
 **Humanly Code Generator** is an AI-powered code generation tool that creates human-like code snippets based on specified logic, time complexity, space complexity, and programming language. Leveraging the power of Google's Generative AI and Gradio's user-friendly interface, this tool allows users to generate code that looks like it was typed by a human, with small and meaningful variable names and functions.
 
-![Uploading CodeHumanly.png…]()
 
 ## Features ✨
 
