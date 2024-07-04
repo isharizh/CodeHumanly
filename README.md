@@ -1,6 +1,3 @@
-
-# Humanly Code Generator 💻
-
 ![Screenshot 2024-07-04 at 10 40 02 AM](https://github.com/isharizh/CodeHumanly/assets/93082178/0be8b51d-4569-4fa2-8009-abf87bef6501)
 
 ## Description 📜
